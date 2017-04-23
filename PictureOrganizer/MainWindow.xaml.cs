@@ -24,5 +24,10 @@ namespace PictureOrganizer
         {
             InitializeComponent();
         }
+
+        private void VsXdmlDrop(object sender, DragEventArgs args)
+        {
+            //todo implementation
+        }
     }
 }
